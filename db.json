@@ -1,0 +1,11 @@
+[
+{"id":1,"username":"KN01","password":"1234","vendor":"Kuehne Nagel","mode":"air","timedur":2},
+
+{"id":2,"username":"KN02","password":"1234","vendor":"Kuehne Nagel","mode":"sea","timedur":2},
+
+{"id":3,"username":"KN01","password":"1234","vendor":"Kuehne Nagel","mode":"local","timedur":2},
+
+{"id":4,"username":"Exp01","password":"1234","vendor":"Expiditor","mode":"air","timedur":2},
+
+{"id":5,"username":"Exp02","password":"1234","vendor":"Expiditor","mode":"air","timedur":2}
+]
